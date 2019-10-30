@@ -1,6 +1,6 @@
 # IP-2019-2020
 
-Introduction to programming course for Mathematics and Statististics
+Introduction to programming course lead by me
 
 @ Faculty of Mathematics and Informatics in Sofia University
 
